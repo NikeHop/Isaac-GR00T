@@ -44,7 +44,7 @@ dependencies = [
     "transformers==4.51.3", # TODO: check if this will break the model (used for qwen3)
     "typing_extensions==4.12.2",
     "pyarrow==14.0.1",
-    "wandb==0.18.0",
+    "wandb==0.21.1",
     "fastparquet==2024.11.0",
     "accelerate==1.2.1",
     "peft==0.17.0",
