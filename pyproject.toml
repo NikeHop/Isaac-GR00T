@@ -33,7 +33,7 @@ dependencies = [
     "numpydantic==1.6.7",
     "omegaconf==2.3.0",
     "opencv_python_headless==4.11.0.86",
-    "pandas==2.2.3",
+    "pandas==2.1.1",
     "pydantic==2.10.6",
     "PyYAML==6.0.2",
     "ray==2.40.0",
